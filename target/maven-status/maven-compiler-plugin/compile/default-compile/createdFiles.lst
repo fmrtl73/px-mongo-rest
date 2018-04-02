@@ -1,0 +1,7 @@
+px/rest/apis/mongodb/AppConfigDev.class
+px/rest/apis/mongodb/AppConfigReplicaSet.class
+px/rest/apis/mongodb/Application.class
+px/rest/apis/mongodb/PersonRepository.class
+px/rest/apis/mongodb/Person.class
+px/rest/apis/mongodb/Address.class
+px/rest/apis/mongodb/AppConfigProd.class
